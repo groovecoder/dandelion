@@ -1,0 +1,12 @@
+fx-makes-tech = Firefox makes tech that fights for your online privacy.
+people-before-profit = People before profit.
+moz-mission = See Mozilla's mission in action
+fx-desktop = Firefox Browser for Desktop
+fx-mobile = Firefox for Mobile
+fx-lockwise = Firefox Lockwise
+fx-bento-title = Firefox apps and services
+pocket = Pocket
+fx-monitor = Firefox Monitor
+fx-send = Firefox Send
+fx-private-network = Firefox Private Network
+fx-accounts = Firefox Accounts
